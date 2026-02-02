@@ -6,7 +6,7 @@ PhD thesis: On the modern problems of combinatorial geometry and combinatorics o
 Supervisors: Professor Alexey Kanel-Belov, Professor Andrey Raigorodskii
 Annotation: Our attention is primarily paid to problems at the junction of combinatorial geometry and graph theory, and  combinatorial geometry and combinatorics on words. The results of the work are divided into three parts: Nelson's problem on the chromatic number of normed spaces; graphs represented by words; combinatorial complexity functions of infinite words.
 
-Previous Industry Experience (2021-2024): 
+**Previous Industry Experience (2021-2024): **
 Research Engineer, HUAWEI Russian Research Center.
 Tasks: Analyze the state-of-the-art approaches, models, and algorithms for photo and video creation, registration, processing, display, perception, and evaluation. Develop concepts, architectures, models, and algorithms for both AI-based and non-AI-based photo and video processing and evaluation. Performed reflectance measurements under various lighting conditions using a spectral camera. Converted colors from the XYZ color space to RGB, accounting for the sensor’s spectral characteristics. Worked on HDR image processing.
 
